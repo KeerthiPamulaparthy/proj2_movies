@@ -1,0 +1,1 @@
+Predicted domestic gross of animation movies, by building a linear regression model. Obtained data by scraping using Beautiful soup from Boxofficemojo.com and thenumbers.com, performed feature engineering and built a regression model.
